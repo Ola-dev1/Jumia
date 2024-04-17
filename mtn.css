@@ -1,0 +1,33 @@
+#ZLT {
+    background-color: white;
+}
+
+.container {
+    background-color: orange;
+}
+.container .move {
+    margin-left: 200px;
+    margin-right: 200px;
+    width: 700px;
+}
+
+.container #login {
+    background-color:gold;
+    margin-left:100px;
+    margin-right: 165px;
+    font-size: large; 
+    margin-top: 150px;
+    text-align: center;
+    height: 40px;
+}
+
+.cover {
+    background-color: white;
+    margin-top: -16px;
+    margin-left: 100px;
+    margin-right: 165px;
+    height: 15em;
+}
+.cover #button {
+    color: aqua;
+}

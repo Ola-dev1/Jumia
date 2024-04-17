@@ -1,0 +1,163 @@
+body {
+    background-color: white;
+}
+.one {
+    color: orange;
+    text-align: end;
+    background-color: skyblue;
+    font-size: xx-large;
+}
+.two {
+    color: whitesmoke;
+}
+.two #form {
+         color: black;
+}
+
+.two #sell {
+    color: lightcoral;
+}
+.two #pay {
+    text-align: center;
+    color: red;
+}
+.two #form {
+    font-size: 20px;
+   
+}
+.two #accounts {
+     text-align-last: right;
+}
+
+.container #list{
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+
+.container #slide {
+    text-align: center;
+    margin-right: 10px;
+    margin-left: -200px;
+    margin-top: -230px;
+}
+.container #call {
+    background-color: blueviolet;
+    margin-top: -320px;
+    border: outset;
+    margin-right: 2px;
+    margin-left: 1000px;
+    width: 150px;
+    height: 150px;
+    font-size: larger;
+    text-align: center;
+    
+    
+}
+.container #force {
+    border: outset;
+    text-align: right;
+    background-color: blue;
+    margin-top: 40px;
+    margin-left: 1000px;
+    margin-right: 100px;
+    color: cyan;
+    
+}
+
+/* .four { 
+    text-align: right;
+    background-color: aquamarine; 
+    /* background-image: url(img/th.jpg) ;  
+    background-repeat: no-repeat;
+    background-position: cover;
+    background-position:;
+    
+
+
+}
+
+
+.five {
+    text-align: left;
+     border: ridge;
+    border-color: skyblue;
+    border-spacing: 50em;
+     border-radius: 1em;
+     padding: 0.5em;
+}
+
+
+.six {
+    background-color: red;
+    
+}
+
+.six #flash {
+    text-align: left;
+}
+.six #time {
+    text-align: center;
+}
+.six #See {
+    text-align: right;
+}
+
+.seven {
+    border: ridge;
+    border-color: aqua;
+    outline: 2px solid black;
+    border-radius: 2em;
+    background-color: rgba(17, 17, 77, 0.904);
+    
+}
+.seven #Fashion {
+    font-size: xx-large;
+    font-weight: 900;
+    text-align: start;
+    color: blueviolet;
+
+}
+.seven #one {
+    text-align: center;
+    font-size: larger;
+    color: cornflowerblue;
+    
+}
+.seven #Elegance {
+    color: whitesmoke;
+    font-size: xx-large;
+    text-align: center;
+    background-color: cyan;
+}
+
+.seven #circle {
+    margin: 1em auto;
+    background-color: gold;
+    width: 50px;
+    border: 50px solid skyblue;
+    border-radius: 100px;
+    outline-offset: 0.25rem;
+    text-align: right;
+}
+*/
+
+.container {
+    background-color: red;
+    border: ridge;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
